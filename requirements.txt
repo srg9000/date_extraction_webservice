@@ -1,6 +1,6 @@
 Click==7.0
 datefinder==0.7.0
-Flask==1.1.1
+Flask==2.2.5
 itsdangerous==1.1.0
 Jinja2==2.11.3
 jsonpickle==1.2
